@@ -63,3 +63,7 @@ Markets like Cross River and Lagos have high unit sales but do not feature as pr
   1. Expand Marketing in Underperforming Regions: Leverage targeted campaigns in North Central and South East to increase market share.
   2. Enhance Service Plan Sales: Promote service plans alongside popular products to maximize customer lifetime value.
   3. Replicate Successful Store Strategies: Analyze high-performing stores to identify best practices and replicate success in other locations.
+
+
+![Dashboard 1](https://github.com/user-attachments/assets/f0d09ab8-c446-482c-981a-90f418aefd2f)
+
