@@ -32,6 +32,9 @@ The EDA involved exploring the data to solve some questions such as:
   =IFS(L2<=20,"Low",L2<=50,"Medium",L2>50,"High")
   ```
 
+![Dashboard 1](https://github.com/user-attachments/assets/937367c1-a25e-4ef4-8d76-174eb755f6f7)
+
+
   ### Suggestions and Reccommendations
   The DEFARMS Sales Report reveals critical insights into regional sales performance, product category distribution, and top market contributions. Here's a breakdown of key findings and how they can inform future business decisions:
   
@@ -63,7 +66,3 @@ Markets like Cross River and Lagos have high unit sales but do not feature as pr
   1. Expand Marketing in Underperforming Regions: Leverage targeted campaigns in North Central and South East to increase market share.
   2. Enhance Service Plan Sales: Promote service plans alongside popular products to maximize customer lifetime value.
   3. Replicate Successful Store Strategies: Analyze high-performing stores to identify best practices and replicate success in other locations.
-
-
-![Dashboard 1](https://github.com/user-attachments/assets/f0d09ab8-c446-482c-981a-90f418aefd2f)
-
