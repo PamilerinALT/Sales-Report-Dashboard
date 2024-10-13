@@ -31,4 +31,3 @@ The EDA involved exploring the data to solve some questions such as:
   ```
   =IFS(L2<=20,"Low",L2<=50,"Medium",L2>50,"High")
 ```
-  
